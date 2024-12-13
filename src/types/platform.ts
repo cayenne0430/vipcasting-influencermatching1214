@@ -1,0 +1,1 @@
+export type Platform = 'Instagram' | 'YouTube' | 'X(旧Twitter)' | 'TikTok' | 'その他';
